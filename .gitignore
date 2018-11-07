@@ -1,0 +1,3 @@
+#gitignore file which ignores emacs backup files that end in ~
+
+*.*~
